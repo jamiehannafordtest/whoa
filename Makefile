@@ -7,4 +7,4 @@ image: whoa Dockerfile
 	docker build -t rackerlabs/whoa .
 
 upload: image
-	docker push rackerlabds/whoa
+	docker push rackerlabs/whoa
