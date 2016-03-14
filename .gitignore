@@ -24,4 +24,4 @@ _testmain.go
 *.prof
 
 # Don't include the built whoa
-whoa
+#whoa
