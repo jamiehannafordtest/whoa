@@ -7,7 +7,7 @@ import (
 )
 
 func whoa(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintln(w, "🎉  Whoa!!  🎉")
+	fmt.Fprintln(w, "🎉  Whoa!  🎉")
 }
 
 func main() {
